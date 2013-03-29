@@ -1,2 +1,2 @@
-DayZ-Lightning
+Coming soon
 ==============
